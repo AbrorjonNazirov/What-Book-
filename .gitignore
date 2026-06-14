@@ -1,0 +1,19 @@
+# Security / Secrets (CRITICAL)
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Streamlit Specific
+.streamlit/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
