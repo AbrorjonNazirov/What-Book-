@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "synopsis": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the 'spice' melange.",
+      "why_it_fits": "Our AI is temporarily offline, but this classic provides an epic, world-building escape perfect for any mood."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Classic Romance",
+      "synopsis": "The story follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner.",
+      "why_it_fits": "A timeless fallback choice that offers comfort, wit, and a steady, character-driven narrative while the AI rests."
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "synopsis": "Bilbo Baggins is whisked away from his comfortable life in Hobbiton by the wizard Gandalf and a company of dwarves to win a share of a dragon's treasure.",
+      "why_it_fits": "When technology fails, it's the perfect time to go on a nostalgic, adventurous journey in Middle-earth."
+    }
+  ]
+}
